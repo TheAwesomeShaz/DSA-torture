@@ -1,6 +1,5 @@
 package Arrays;
 
-import java.util.*;
 import java.io.*;
 
 class Driver {
