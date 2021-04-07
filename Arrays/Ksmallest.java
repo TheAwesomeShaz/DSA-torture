@@ -20,15 +20,20 @@ class DriverKsmallest {
         System.out.println("Enter the value of K");
         int k = sc.nextInt();
 
-        System.out.println("The kth smallest element is " + new Ksmallest().kthsmallest(arr, k));
+        System.out.println("The kth smallest element is " + new Ksmallest().kthSmallest(arr, k));
 
         sc.close();
     }
 }
 
 class Ksmallest {
-    public int kthsmallest(int[] arr, int k) {
+
+    public int kthSmallest(int[] arr, int k) {
+        // Sort the given array
         Arrays.sort(arr);
+
+        // Return k'th element in
+        // the sorted array
         return arr[k - 1];
     }
 }
