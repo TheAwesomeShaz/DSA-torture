@@ -26,6 +26,8 @@ class DriverRotateArray {
         }
         System.out.println("The array after cyclic rotation by one is ");
         new RotateArray().rotateArray(arr, n);
+
+        sc.close();
     }
 }
 
