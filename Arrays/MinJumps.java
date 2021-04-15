@@ -19,6 +19,7 @@ class DriverMinJumps {
 
         System.out.println("The minimum no. of jumps is " + new MinJumps().minJumps(arr, n));
 
+        sc.close();
     }
 }
 
