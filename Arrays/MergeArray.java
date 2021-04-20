@@ -1,7 +1,5 @@
 package Arrays;
 
-import java.util.*;
-
 // Merge Without Extra Space
 // Input:
 // N = 4, M = 5
@@ -32,25 +30,25 @@ class MergeArray {
     // This is a very non optimised brute force solution
     // public void mergeArray(int arr1[], int arr2[]) {
 
-    //     for (int i = 0; i < arr1.length; i++) {
-    //         for (int j = 0; j < arr2.length; j++) {
-    //             if (arr1[i] > arr2[j]) {
-    //                 // swap them nibbas
-    //                 int temp = arr1[i];
-    //                 arr1[i] = arr2[j];
-    //                 arr2[j] = temp;
-    //             }
-    //         }
-    //     }
-    //     // Arrays.sort(arr1);
-    //     for (int i = 0; i < arr1.length; i++) {
-    //         System.out.print(arr1[i] + " ");
-    //     }
+    // for (int i = 0; i < arr1.length; i++) {
+    // for (int j = 0; j < arr2.length; j++) {
+    // if (arr1[i] > arr2[j]) {
+    // // swap them nibbas
+    // int temp = arr1[i];
+    // arr1[i] = arr2[j];
+    // arr2[j] = temp;
+    // }
+    // }
+    // }
+    // // Arrays.sort(arr1);
+    // for (int i = 0; i < arr1.length; i++) {
+    // System.out.print(arr1[i] + " ");
+    // }
 
-    //     Arrays.sort(arr2);
-    //     for (int j = 0; j < arr2.length; j++) {
-    //         System.out.print(arr2[j] + " ");
-    //     }
+    // Arrays.sort(arr2);
+    // for (int j = 0; j < arr2.length; j++) {
+    // System.out.print(arr2[j] + " ");
+    // }
 
     // }
 

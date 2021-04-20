@@ -1,7 +1,5 @@
 package Arrays;
 
-import java.util.*;
-
 //Question: Find common elements among the arrays
 // Input:
 // n1 = 6; A = {1, 5, 10, 20, 40, 80}

@@ -4,12 +4,13 @@ package Arrays;
 
 class DriverCountInversions {
     public static void main(String[] args) {
-        int[] arr = { 2, 4, 1, 3, 5 };
+        // int[] arr = { 2, 4, 1, 3, 5 };
 
         // was printing the brute force output
         // System.out.println(new CountInversions().countInversions(arr));
 
         // not even gonna print the output cuz its not mine
+
     }
 }
 
