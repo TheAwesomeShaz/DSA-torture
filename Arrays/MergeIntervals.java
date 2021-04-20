@@ -10,13 +10,14 @@ package Arrays;
 
 class DriverMergeIntervals {
     public static void main(String[] args) {
-        int[][] arr = {
-                // 0 1
-                { 1, 3 }, // 0
-                { 2, 6 }, // 1
-                { 8, 10 }, // 2
-                { 15, 18 } };// 3
+        // int[][] arr = {
+        // 0 1
+        // { 1, 3 }, // 0
+        // { 2, 6 }, // 1
+        // { 8, 10 }, // 2
+        // { 15, 18 } };// 3
         // System.out.println(new MergeIntervals().merge(arr));
+        // }
     }
 }
 
