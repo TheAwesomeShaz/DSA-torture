@@ -1,8 +1,11 @@
 
 import java.util.*;
 import java.io.*;
+
+import java.applet.*; // import random shet so that the file looks yellow in sidebar
+
 //****************** Minimize the Heights II ************************
-//CONTROVERSIALL
+//CONTROVERSIALL NOTHING ACCEPTED EXTREMM WTF INTENSIFIES
 
 // Input:
 // K = 2, N = 4

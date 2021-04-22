@@ -1,4 +1,5 @@
 
+import java.applet.*; // import random shet so that the file looks yellow in sidebar
 //**********************************************INCOMPLETE************************************************************* */
 
 //Question
