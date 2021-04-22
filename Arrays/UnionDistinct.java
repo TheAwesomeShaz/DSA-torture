@@ -1,4 +1,3 @@
-package Arrays;
 
 // Given 2 arrays find distinct elements among them by doing some Union or some shet
 

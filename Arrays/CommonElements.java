@@ -1,4 +1,3 @@
-package Arrays;
 
 //Question: Find common elements among the arrays
 // Input:

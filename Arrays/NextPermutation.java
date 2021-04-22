@@ -1,4 +1,3 @@
-package Arrays;
 
 //Question: Implement next permutation, which rearranges numbers in next dictionary order
 

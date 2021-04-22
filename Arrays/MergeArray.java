@@ -1,4 +1,3 @@
-package Arrays;
 
 // Merge Without Extra Space
 // Input:

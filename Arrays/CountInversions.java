@@ -1,4 +1,3 @@
-package Arrays;
 
 import java.util.*;
 // Time spent: 1 hour

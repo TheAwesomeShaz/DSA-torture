@@ -1,4 +1,3 @@
-package Arrays;
 
 // Question
 // Best Time to Buy and Sell Stock
